@@ -7,7 +7,6 @@ The Wheatstone bridge calculator is a simple but powerful tool that allows you t
 2. 	Download
 Before opening the application you need to install a 2.7 IDE for python. We recommend IDLE, as it is coded in 100% pure Python, using the tkinter GUI toolkit and is cross-platform, so it works mostly the same on Windows, Unix, and Mac OS X.
 3. 	IDLE
-
 IDLE can be downloaded here: https://www.python.org/downloads/
 To download it, just click on “Download Python 2.7.11” and once its done, install it using onscreen instructions.
 
